@@ -4,6 +4,6 @@
 
 <script lang="ts">
 import Vue from 'vue'
-
+//dev test
 export default Vue.extend({})
 </script>
